@@ -1,4 +1,4 @@
-# TTT2 Swapper Role
+# TTT2 Swapper Role - NOT THE WORKSHOP VERSION
 A port of of the Swapper from Custom Roles for TTT
 
 This has been made for fun for my server and bugs may exist but feel free to report them.
